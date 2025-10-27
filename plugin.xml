@@ -1,0 +1,3 @@
+<gazebo>
+  <plugin name="buoyancy" filename="libbuoyancy_plugin.so"/>
+</gazebo>
