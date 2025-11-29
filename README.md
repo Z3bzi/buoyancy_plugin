@@ -55,4 +55,4 @@ colcon build --packages-select buoyancy_plugin
 
 ## Usage
 
-To use the plugin, you need to add it to your model's SDF file as shown in the configuration example. You can then launch your Gazebo simulation as usual.
+To use the plugin, you need to add it to your model's urdf/xacro file as shown in the configuration example. You can then launch your Gazebo simulation as usual.
